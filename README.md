@@ -28,21 +28,21 @@ Different variations of types int and float exist in **C++** and other languages
 3. **Exit**
 
 <body> 
->>  1  // Addition <br>
+>> 1  &nbsp;&nbsp;&nbsp;&nbsp; // Addition <br>
 >> 123456789012345678901234567890 <br>
 Num1 = 123456789012345678901234567890 <br>
 >> = 113456789011345678901134567890 <br>
 Num2 = 113456789011345678901134567890 <br>
 Num1 + Num2 = 236913578023691357802369135780 <br>
 <br><br>
->> 2  // Substraction <br>
+>> 2  &nbsp;&nbsp;// Substraction <br>
 >> 1230000000000000001 <br>
 Num1 = 1230000000000000001 <br>
 >> 30000000000000001 <br>
 Num2 = 30000000000000001 <br>
 Num1 - Num2 = 1200000000000000000 <br>
 <br><br>
->> 1  // Addition<br>
+>> 1  &nbsp;&nbsp;// Addition<br>
 >> - 1230000000000000001 <br>
 Num1 = - 1230000000000000001 <br>
 >> 30000000000000001 <br>
